@@ -1,9 +1,12 @@
 DESCRIPTION 
 
 In this zip file, inside the CODE folder we can find 3 folders:
-	Data: with all the original csv files, as well as the code in R to join them, we have uploaded the final datasets as well, and to pdf files with the explanations for the datasets for 2019 and 2023, which are further treated in the model code, since they are the ones we will use for our model predictions in the visualization
-	Models: with the jupyter notebooks with our final versions of the RF and NN models. In those files we further modify the datasets to use them to train our models accordingly. There is also the html version of the notebooks.
-	Visualizations: with the Tableau workbook containing the visualizations. The Tableau workbook contains 3 Tableau dashboards which can be viewed by selecting them using the bottom tabs. 
+	
+ Data: with all the original csv files, as well as the code in R to join them, we have uploaded the final datasets as well, and to pdf files with the explanations for the datasets for 2019 and 2023, which are further treated in the model code, since they are the ones we will use for our model predictions in the visualization
+	
+ Models: with the jupyter notebooks with our final versions of the RF and NN models. In those files we further modify the datasets to use them to train our models accordingly. There is also the html version of the notebooks.
+	
+ Visualizations: with the Tableau workbook containing the visualizations. The Tableau workbook contains 3 Tableau dashboards which can be viewed by selecting them using the bottom tabs. 
 
 INSTALLATION 
 
